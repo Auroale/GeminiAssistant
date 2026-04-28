@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GeminiAssistant.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/autoa/Documents/Unreal Projects/PluginTest/Intermediate/Build/Win64/x64/PluginTestEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/autoa/Documents/Unreal Projects/PluginTest/Plugins/GeminiAssistant/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeminiAssistant/Module.GeminiAssistant.cpp.obj"
+"C:/Users/autoa/Documents/Unreal Projects/PluginTest/Plugins/GeminiAssistant/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeminiAssistant/GeminiAPIClient.cpp.obj"
+"C:/Users/autoa/Documents/Unreal Projects/PluginTest/Plugins/GeminiAssistant/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeminiAssistant/GeminiAssistantModule.cpp.obj"
+"C:/Users/autoa/Documents/Unreal Projects/PluginTest/Plugins/GeminiAssistant/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeminiAssistant/GeminiEditorSettings.cpp.obj"
+"C:/Users/autoa/Documents/Unreal Projects/PluginTest/Plugins/GeminiAssistant/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeminiAssistant/Default.rc2.res"
+/OUT:"C:/Users/autoa/Documents/Unreal Projects/PluginTest/Plugins/GeminiAssistant/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeminiAssistant/UnrealEditor-GeminiAssistant.lib"

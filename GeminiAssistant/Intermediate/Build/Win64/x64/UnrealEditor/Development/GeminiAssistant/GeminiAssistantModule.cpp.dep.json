@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\source\\geminiassistant\\private\\geminiassistantmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\intermediate\\build\\win64\\x64\\plugintesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\geminiassistant\\definitions.geminiassistant.h",
+            "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\source\\geminiassistant\\public\\geminiassistantmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

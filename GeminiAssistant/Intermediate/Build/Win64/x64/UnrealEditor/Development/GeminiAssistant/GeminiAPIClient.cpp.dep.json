@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\source\\geminiassistant\\private\\geminiapiclient.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\intermediate\\build\\win64\\x64\\plugintesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\geminiassistant\\definitions.geminiassistant.h",
+            "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\source\\geminiassistant\\public\\geminiapiclient.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "g:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "g:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\testundeclaredscriptstructobjectreferences.generated.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "g:\\ue_5.7\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\intermediate\\build\\win64\\unrealeditor\\inc\\geminiassistant\\uht\\geminiapiclient.generated.h",
+            "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\source\\geminiassistant\\public\\geminieditorsettings.h",
+            "c:\\users\\autoa\\documents\\unreal projects\\plugintest\\plugins\\geminiassistant\\intermediate\\build\\win64\\unrealeditor\\inc\\geminiassistant\\uht\\geminieditorsettings.generated.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponsecodes.inl",
+            "g:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponsecodes.inl",
+            "g:\\ue_5.7\\engine\\source\\editor\\unrealed\\public\\subsystems\\editoractorsubsystem.h",
+            "g:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\editoractorsubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

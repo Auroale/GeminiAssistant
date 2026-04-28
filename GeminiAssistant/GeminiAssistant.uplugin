@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Gemini Editor Assistant",
+	"Description": "Integrates Gemini AI into UE5 for game design automation.",
+	"Category": "Editor",
+	"CreatedBy": "Auroale",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GeminiAssistant",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

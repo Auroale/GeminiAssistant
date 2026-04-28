@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GeminiAssistant.cpp.obj": [
+			"GeminiAPIClient.gen.cpp.obj",
+			"GeminiAssistant.init.gen.cpp.obj",
+			"GeminiEditorSettings.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"GeminiAPIClient.cpp.obj",
+			"GeminiAssistantModule.cpp.obj",
+			"GeminiEditorSettings.cpp.obj"
+		]
+	}
+}
